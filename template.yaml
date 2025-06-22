@@ -8,7 +8,7 @@ metadata:
     - angular
     - nagesh
 spec:
-  owner: narathod@redhat.com
+  owner: jpeixoto@redhat.com
   type: website
   parameters:
     - title: Provide some simple information
