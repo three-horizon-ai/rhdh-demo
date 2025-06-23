@@ -6,7 +6,6 @@ metadata:
   description: Create a new CRA website project
   tags:
     - angular
-    - nagesh
 spec:
   owner: jpeixoto6
   type: website
